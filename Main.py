@@ -5,8 +5,8 @@ def selectionSort(array, size) -> List[int]:
   for i in range(size):
     min = i
     for j in range(i+1,size):
-      if array[i]>array[j]:
-        array[i],array[j] = array[j],array[i]
+      if List[i]>List[j]:
+        List[i],List[j] = List[j],List[i]
         
         
 # Do not change the following code
